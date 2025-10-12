@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsmectal
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Sql and Python and working on Some Projects.
+
 
 
 <!---
