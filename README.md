@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @itsmectal
-- 👀 I’m interested in Data Science.
-
+Hi! I'm Sital, a BSc. CSIT student exploring the world of Data Science. I love analyzing data, building projects, and learning new technologies.
 
 
 <!---
